@@ -1,8 +1,10 @@
 # autobot-tryst
  Autobot Challenge 2022 Tryst-IITD support files and datasets
 <hr>
-<h5>All datasets are available in the following link: https://drive.google.com/drive/folders/1eA2hEBs_Wkc4otwJSIhpcOKYW__KA5S-?usp=sharing </h5>
+<h4>All datasets are available in the following link: https://drive.google.com/drive/folders/1eA2hEBs_Wkc4otwJSIhpcOKYW__KA5S-?usp=sharing </h4>
 <br>
+<hr>
+<h4>Sample code to run Jetbot can be found on: https://github.com/NVIDIA-AI-IOT/jetbot/tree/master/notebooks </h4>
 <hr>
 <h3>Submission Instructions:</h3>
 -> You will have to maintain a <b>github repo</b> with the solution to the problem. Which needs to be shared at submission.
