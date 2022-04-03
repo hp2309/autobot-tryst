@@ -17,3 +17,5 @@
 <br>
 -> We will execute the python notebook for evaluation in the online stage.
 <br>
+-> Make a readme file with instructions on how to use your codebase.
+<br>
